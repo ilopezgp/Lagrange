@@ -7,7 +7,7 @@ title: Publications & Conferences
 
 Singer, C., Lopez-Gomez, I., Zhang, X., Schneider, T. (2020) **Top-of-atmosphere albedo bias from neglecting three-dimensional radiative transfer through clouds.** *Geophysical Research Letters*, submitted.
 
-Lopez-Gomez, I., Cohen, Y., He, J., Jaruga, A., Schneider, T. (2020) **A Generalized Mixing Length Closure for Eddy-Diﬀusivity Mass-Flux Schemes of Turbulence and Convection.** *Journal of Advances in Modeling Earth Systems*, under review. [Preprint](https://clima.caltech.edu/files/2020/04/essoar.10502906.1.pdf)
+Lopez-Gomez, I., Cohen, Y., He, J., Jaruga, A., Schneider, T. (2020) **A Generalized Mixing Length Closure for Eddy-Diﬀusivity Mass-Flux Schemes of Turbulence and Convection.** *Journal of Advances in Modeling Earth Systems*, in press. [Preprint](https://clima.caltech.edu/files/2020/04/essoar.10502906.1.pdf)
 
 Cohen, Y., Lopez-Gomez, I., Jaruga, A., He, J., Kaul, C., and Schneider, T. (2020) **Unified entrainment and detrainment closures for extended eddy-diffusivity mass-flux schemes.** *Journal of Advances in Modeling Earth Systems*, 12, e2020MS002162. [doi](https://doi.org/10.1029/2020MS002162)
 
