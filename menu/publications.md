@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications & Conferences
+image: stratocumulus-baja.jpg
 ---
 
 ### Peer-reviewed articles
