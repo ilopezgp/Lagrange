@@ -15,8 +15,8 @@ menu:
 social:
 - {icon: 'github', link: 'https://github.com/ilopezgp'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/ilopezgo/'}
-- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Ignacio_Lopez-Gomez'}
 - {icon: 'envelope', link: 'mailto:ilopezgo@caltech.edu'}
+# - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Ignacio_Lopez-Gomez'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
