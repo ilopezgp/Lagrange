@@ -15,4 +15,10 @@ D. del Pozo, I. Lopez-Gomez, I. Romero (2019) A robust asymmetrical contact algo
 
 ### Conference presentations
 
+Machine Learning-Based Calibration of a Unified Parameterization of Turbulence and Convection for Climate Models. SIAM Mathematics of Planet Earth 2020. [Abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=103779)
+
 A Generalized Mixing Length for Eddy-Diffusivity Mass-Flux Models of Boundary Layer Turbulence and Convection. American Geophysical Union, Fall Meeting 2019. [Abstract](https://ui.adsabs.harvard.edu/abs/2019AGUFM.A32E..02L/abstract).
+
+A Generalized Mixing Length for Eddy-Diffusivity Mass-Flux Models of Boundary Layer Turbulence and Convection. [WITGAF 2019](https://witgaf2019.sciencesconf.org)
+
+
