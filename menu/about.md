@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: page
 title: About Me
 image: mountains.jpg
 ---
-
-![image tooltip here](/assets/img/mountains.jpg)
 
 I am a PhD candidate at the California Institute of Technology, working with Tapio Schneider and J&ouml;rn Callies. My research focuses on climate modeling and prediction, physical oceanography and atmospheric dynamics. I am also part of the Climate Modeling Alliance ([CliMA](https://clima.caltech.edu)).
 
