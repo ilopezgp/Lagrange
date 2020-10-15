@@ -6,9 +6,9 @@ image: stratocumulus-baja.jpg
 
 ### Peer-reviewed articles
 
-Singer, C., Lopez-Gomez, I., Zhang, X., Schneider, T. (2020) **Top-of-atmosphere albedo bias from neglecting three-dimensional radiative transfer through clouds.** *Geophysical Research Letters*, submitted.
+Singer, C., Lopez-Gomez, I., Zhang, X., Schneider, T. (2020) **Top-of-atmosphere albedo bias from neglecting three-dimensional radiative transfer through clouds.** *Geophysical Research Letters*, under review.
 
-Lopez-Gomez, I., Cohen, Y., He, J., Jaruga, A., Schneider, T. (2020) **A generalized mixing length closure for eddy-diﬀusivity mass-flux schemes of turbulence and convection.** *Journal of Advances in Modeling Earth Systems*, 12, e2020MS002161. [doi](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020MS002161)
+Lopez-Gomez, I., Cohen, Y., He, J., Jaruga, A., Schneider, T. (2020) **A generalized mixing length closure for eddy-diﬀusivity mass-flux schemes of turbulence and convection.** *Journal of Advances in Modeling Earth Systems*, 12, e2020MS002161. [doi](https://doi.org/10.1029/2020MS002161)
 
 Cohen, Y., Lopez-Gomez, I., Jaruga, A., He, J., Kaul, C., and Schneider, T. (2020) **Unified entrainment and detrainment closures for extended eddy-diffusivity mass-flux schemes.** *Journal of Advances in Modeling Earth Systems*, 12, e2020MS002162. [doi](https://doi.org/10.1029/2020MS002162)
 
