@@ -20,7 +20,7 @@ Machine Learning-Based Calibration of a Unified Parameterization of Turbulence a
 
 Machine Learning-Based Calibration of a Unified Parameterization of Turbulence and Convection for Climate Models. *ARM/ASR Machine Learning Workshop 2020*, Virtual Session. [Website](https://www.arm.gov/news/events/post/64529)
 
-A Generalized Mixing Length for Eddy-Diffusivity Mass-Flux Models of Boundary Layer Turbulence and Convection. *American Geophysical Union, Fall Meeting 2019*, San Francisco, CA. [Abstract](https://ui.adsabs.harvard.edu/abs/2019AGUFM.A32E..02L/abstract).
+A Generalized Mixing Length for Eddy-Diffusivity Mass-Flux Models of Boundary Layer Turbulence and Convection. *American Geophysical Union, Fall Meeting 2019*, San Francisco, CA. [Abstract](https://ui.adsabs.harvard.edu/abs/2019AGUFM.A32E..02L/abstract)
 
 A Generalized Mixing Length for Eddy-Diffusivity Mass-Flux Models of Boundary Layer Turbulence and Convection. *Waves, Instabilities and Turbulence in Geophysical and Astrophysical Flows (WITGAF) 2019*, Carg&egrave;se, France. [*Website*](https://witgaf2019.sciencesconf.org)
 
