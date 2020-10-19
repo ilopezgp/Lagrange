@@ -6,7 +6,7 @@ image: stratocumulus-baja.jpg
 
 ### Peer-reviewed articles
 
-Singer, C., Lopez-Gomez, I., Zhang, X., Schneider, T. (2020) **Top-of-atmosphere albedo bias from neglecting three-dimensional radiative transfer through clouds.** *Geophysical Research Letters*, under review.
+Singer, C., Lopez-Gomez, I., Zhang, X., Schneider, T. (2020) **Top-of-atmosphere albedo bias from neglecting three-dimensional radiative transfer through clouds.** *Geophysical Research Letters*, under review. [Preprint](https://doi.org/10.1002/essoar.10504531.1)
 
 Lopez-Gomez, I., Cohen, Y., He, J., Jaruga, A., Schneider, T. (2020) **A generalized mixing length closure for eddy-diﬀusivity mass-flux schemes of turbulence and convection.** *Journal of Advances in Modeling Earth Systems*, 12, e2020MS002161. [doi](https://doi.org/10.1029/2020MS002161)
 
@@ -16,10 +16,12 @@ D. del Pozo, I. Lopez-Gomez, I. Romero (2019) **A robust asymmetrical contact al
 
 ### Conference presentations
 
-Machine Learning-Based Calibration of a Unified Parameterization of Turbulence and Convection for Climate Models. *SIAM Mathematics of Planet Earth 2020.* [Abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=103779)
+Machine Learning-Based Calibration of a Unified Parameterization of Turbulence and Convection for Climate Models. *SIAM Mathematics of Planet Earth 2020*, Virtual Session. [Abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=103779)
+
+Machine Learning-Based Calibration of a Unified Parameterization of Turbulence and Convection for Climate Models. *ARM/ASR Machine Learning Workshop 2020*, Virtual Session. [Website](https://www.arm.gov/news/events/post/64529)
 
 A Generalized Mixing Length for Eddy-Diffusivity Mass-Flux Models of Boundary Layer Turbulence and Convection. *American Geophysical Union, Fall Meeting 2019*, San Francisco, CA. [Abstract](https://ui.adsabs.harvard.edu/abs/2019AGUFM.A32E..02L/abstract).
 
-A Generalized Mixing Length for Eddy-Diffusivity Mass-Flux Models of Boundary Layer Turbulence and Convection. [*WITGAF 2019*](https://witgaf2019.sciencesconf.org), Carg&egrave;se, France.
+A Generalized Mixing Length for Eddy-Diffusivity Mass-Flux Models of Boundary Layer Turbulence and Convection. *Waves, Instabilities and Turbulence in Geophysical and Astrophysical Flows (WITGAF) 2019*, Carg&egrave;se, France. [*Website*](https://witgaf2019.sciencesconf.org)
 
 
