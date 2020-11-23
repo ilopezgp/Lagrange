@@ -14,6 +14,7 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://github.com/ilopezgp'}
+- {icon: 'google', link: 'https://scholar.google.com/citations?user=eKE7em8AAAAJ&hl=es'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/ilopezgo/'}
 - {icon: 'envelope', link: 'mailto:ilopezgo@caltech.edu'}
 # - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Ignacio_Lopez-Gomez'}
