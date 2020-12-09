@@ -4,6 +4,10 @@ title: Publications & Conferences
 image: stratocumulus-baja.jpg
 ---
 
+### Submitted preprints
+
+He, J., Cohen, Y., Lopez-Gomez, I., Jaruga, A., Schneider, T. (2020) **An Improved Perturbation Pressure Closure for Eddy-Diffusivity Mass-Flux Schemes**, *Journal of Advances in Modeling Earth Systems*, submitted. [preprint](https://doi.org/10.1002/essoar.10505084.1)
+
 ### Peer-reviewed articles
 
 Lopez-Gomez, I., Cohen, Y., He, J., Jaruga, A., Schneider, T. (2020) **A generalized mixing length closure for eddy-diﬀusivity mass-flux schemes of turbulence and convection.** *Journal of Advances in Modeling Earth Systems*, 12, e2020MS002161. [doi](https://doi.org/10.1029/2020MS002161)
