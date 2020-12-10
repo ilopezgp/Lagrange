@@ -14,7 +14,7 @@ Lopez-Gomez, I., Cohen, Y., He, J., Jaruga, A., Schneider, T. (2020) **A general
 
 Cohen, Y., Lopez-Gomez, I., Jaruga, A., He, J., Kaul, C., and Schneider, T. (2020) **Unified entrainment and detrainment closures for extended eddy-diffusivity mass-flux schemes.** *Journal of Advances in Modeling Earth Systems*, 12, e2020MS002162. [doi](https://doi.org/10.1029/2020MS002162)
 
-D. del Pozo, I. Lopez-Gomez, I. Romero (2019) **A robust asymmetrical contact algorithm for explicit solid dynamics.** *Computational Mechanics*, 65, 15-32. [doi](https://doi.org/10.1007/s00466-018-1654-x)
+del Pozo, D., Lopez-Gomez, I., Romero, I. (2019) **A robust asymmetrical contact algorithm for explicit solid dynamics.** *Computational Mechanics*, 65, 15-32. [doi](https://doi.org/10.1007/s00466-018-1654-x)
 
 ### Conference presentations
 
