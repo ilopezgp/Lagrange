@@ -1,0 +1,3 @@
+To create a .webp image:
+
+cwep image.jpg -o image.webp
