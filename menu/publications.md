@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Publications & Conferences
-image: stratocumulus-baja.jpg
+image: stratocumulus-baja.webp
+backup_image: stratocumulus-baja.jpg
 ---
 
 ### Submitted preprints

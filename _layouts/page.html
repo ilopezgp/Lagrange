@@ -7,7 +7,10 @@ layout: default
 </h1>
 
 {% if page.image %}
-  <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+  <picture>
+      <source srcset="{{ site.github.url }}/assets/img/{{ page.image }}" type="image/webp">
+      <img src="{{ site.github.url }}/assets/img/{{ page.backup_image }}">
+  </picture>
 {% endif %}
 
 {{ content }}
