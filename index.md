@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About Me
-image: prof_pic.webp
-backup_image: prof_pic.jpg
+image: prof_pic_half.webp
+backup_image: prof_pic_half.jpg
 ---
 
 I am a PhD candidate at the California Institute of Technology, working with Tapio Schneider and J&ouml;rn Callies. My research focuses on climate modeling and prediction, physical oceanography and atmospheric dynamics. I am also part of the Climate Modeling Alliance ([CliMA](https://clima.caltech.edu)) and the [Resnick Sustainability Institute at Caltech](http://resnick.caltech.edu). Prior to this, I studied Aerospace Engineering at Universidad Polit&eacute;cnica de Madrid (BSc, 2016) and ISAE-SUPAERO (MSc, 2018).
