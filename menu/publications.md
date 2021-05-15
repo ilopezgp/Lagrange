@@ -7,11 +7,11 @@ backup_image: stratocumulus-baja.jpg
 
 ### Submitted preprints
 
+He, J., Cohen, Y., Lopez-Gomez, I., Jaruga, A., Schneider, T. (2021) **An improved perturbation pressure closure for eddy-diffusivity mass-flux schemes**, submitted. [preprint](https://doi.org/10.1002/essoar.10505084.2)
+
 Singer, C.E., Lopez-Gomez, I., Zhang, X., Schneider, T. (2021) **Top-of-atmosphere albedo bias from neglecting three-dimensional cloud radiative effects**, submitted. [preprint](https://doi.org/10.1002/essoar.10504531.2)
 
 Chure, G., Banks, R. A., Flamholz, A. I., Sarai, N. S., Kamb, M., Lopez-Gomez, I., Bar-On, Y. M., Milo, R., Phillips, R. (2021) **The Anthropocene by the numbers: A quantitative snapshot of Humanity's influence on the planet**, submitted. [preprint](https://arxiv.org/abs/2101.09620)
-
-He, J., Cohen, Y., Lopez-Gomez, I., Jaruga, A., Schneider, T. (2021) **An improved perturbation pressure closure for eddy-diffusivity mass-flux schemes**, submitted. [preprint](https://doi.org/10.1002/essoar.10505084.1)
 
 ### Peer-reviewed articles
 
