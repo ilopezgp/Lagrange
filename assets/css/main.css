@@ -505,3 +505,16 @@ th, td {
 .fa-rss-square:hover {
 	color: #ff6600;
 }
+
+.fa-researchgate {
+  padding: 5px;
+  -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+}
+
+.fa-researchgate:hover {
+  color: #33ffe0;
+}
