@@ -5,11 +5,11 @@ image: stratocumulus-baja.webp
 backup_image: stratocumulus-baja.jpg
 ---
 
-### Submitted preprints
+### Preprints
+
+Singer, C.E., Lopez-Gomez, I., Zhang, X., Schneider, T. (2021) **Top-of-atmosphere albedo bias from neglecting three-dimensional cloud radiative effects**, in press. [preprint](https://doi.org/10.1002/essoar.10504531.2)
 
 He, J., Cohen, Y., Lopez-Gomez, I., Jaruga, A., Schneider, T. (2021) **An improved perturbation pressure closure for eddy-diffusivity mass-flux schemes**, submitted. [preprint](https://doi.org/10.1002/essoar.10505084.2)
-
-Singer, C.E., Lopez-Gomez, I., Zhang, X., Schneider, T. (2021) **Top-of-atmosphere albedo bias from neglecting three-dimensional cloud radiative effects**, submitted. [preprint](https://doi.org/10.1002/essoar.10504531.2)
 
 Chure, G., Banks, R. A., Flamholz, A. I., Sarai, N. S., Kamb, M., Lopez-Gomez, I., Bar-On, Y. M., Milo, R., Phillips, R. (2021) **The Anthropocene by the numbers: A quantitative snapshot of Humanity's influence on the planet**, submitted. [preprint](https://arxiv.org/abs/2101.09620)
 
@@ -23,7 +23,7 @@ del Pozo, D., Lopez-Gomez, I., Romero, I. (2019) **A robust asymmetrical contact
 
 ### Conference presentations
 
-Predicting Extreme Heat using Physics-based AI. *3rd NOAA Workshop on Leveraging AI in Environmental Sciences, Fall 2021*, Virtual Session. [Website](https://2021noaaaiworkshop.sched.com/)
+Predicting Extreme Heat using Physics-based AI. *3rd NOAA Workshop on Leveraging AI in Environmental Sciences, September 2021*, Virtual Session. [Website](https://2021noaaaiworkshop.sched.com/)
 
 Machine Learning-Based Calibration of a Unified Parameterization of Turbulence and Convection for Climate Models. *SIAM Mathematics of Planet Earth 2020*, Virtual Session. [Abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=103779)
 
