@@ -13,13 +13,13 @@ Chure, G., Banks, R. A., Flamholz, A. I., Sarai, N. S., Kamb, M., Lopez-Gomez, I
 
 ### Peer-reviewed articles
 
-Singer, C.E., Lopez-Gomez, I., Zhang, X., Schneider, T. (2021) **Top-of-atmosphere albedo bias from neglecting three-dimensional cloud radiative effects**, *Journal of the Atmospheric Sciences*. [doi](https://doi.org/10.1175/JAS-D-21-0032.1)[pdf](https://ilopezgp.github.io/assets/papers/Singer_LopezGomez_Zhang_Schneider_2021.pdf)
+Singer, C.E., Lopez-Gomez, I., Zhang, X., Schneider, T. (2021) **Top-of-atmosphere albedo bias from neglecting three-dimensional cloud radiative effects**, *Journal of the Atmospheric Sciences*. [doi](https://doi.org/10.1175/JAS-D-21-0032.1)  [pdf](https://ilopezgp.github.io/assets/papers/Singer_LopezGomez_Zhang_Schneider_2021.pdf)
 
-Lopez-Gomez, I., Cohen, Y., He, J., Jaruga, A., Schneider, T. (2020) **A generalized mixing length closure for eddy-diﬀusivity mass-flux schemes of turbulence and convection.** *Journal of Advances in Modeling Earth Systems*, 12, e2020MS002161. [doi](https://doi.org/10.1029/2020MS002161)
+Lopez-Gomez, I., Cohen, Y., He, J., Jaruga, A., Schneider, T. (2020) **A generalized mixing length closure for eddy-diﬀusivity mass-flux schemes of turbulence and convection.** *Journal of Advances in Modeling Earth Systems*, 12, e2020MS002161. [doi](https://doi.org/10.1029/2020MS002161)  [pdf](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020MS002161)
 
-Cohen, Y., Lopez-Gomez, I., Jaruga, A., He, J., Kaul, C., and Schneider, T. (2020) **Unified entrainment and detrainment closures for extended eddy-diffusivity mass-flux schemes.** *Journal of Advances in Modeling Earth Systems*, 12, e2020MS002162. [doi](https://doi.org/10.1029/2020MS002162)
+Cohen, Y., Lopez-Gomez, I., Jaruga, A., He, J., Kaul, C., and Schneider, T. (2020) **Unified entrainment and detrainment closures for extended eddy-diffusivity mass-flux schemes.** *Journal of Advances in Modeling Earth Systems*, 12, e2020MS002162. [doi](https://doi.org/10.1029/2020MS002162)  [pdf](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020MS002162)
 
-del Pozo, D., Lopez-Gomez, I., Romero, I. (2019) **A robust asymmetrical contact algorithm for explicit solid dynamics.** *Computational Mechanics*, 65, 15-32. [doi](https://doi.org/10.1007/s00466-018-1654-x)
+del Pozo, D., Lopez-Gomez, I., Romero, I. (2019) **A robust asymmetrical contact algorithm for explicit solid dynamics.** *Computational Mechanics*, 65, 15-32. [doi](https://doi.org/10.1007/s00466-018-1654-x)  [pdf](https://ilopezgp.github.io/assets/papers/Pozo_LopezGomez_Romero_2019.pdf)  
 
 ### Conference presentations
 
