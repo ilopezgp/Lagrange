@@ -23,6 +23,10 @@ del Pozo, D., Lopez-Gomez, I., Romero, I. (2019) **A robust asymmetrical contact
 
 ### Conference presentations
 
+Global Extreme Heat Forecasting on Subseasonal Time Scales Using Deep Learning. *American Meteorological Society Annual Meeting 2022*, Houston, TX.
+
+Calibrating parameterizations with ensemble Kalman methods and high-resolution data. *American Geophysical Union, Fall Meeting 2021*, New Orleans, LA.
+
 Predicting Extreme Heat using Physics-based AI. *3rd NOAA Workshop on Leveraging AI in Environmental Sciences, September 2021*, Virtual Session. [Website](https://2021noaaaiworkshop.sched.com/)
 
 Machine Learning-Based Calibration of a Unified Parameterization of Turbulence and Convection for Climate Models. *SIAM Mathematics of Planet Earth 2020*, Virtual Session. [Abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=103779)
