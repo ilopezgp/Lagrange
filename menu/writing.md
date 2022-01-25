@@ -1,4 +1,4 @@
 ---
 layout: archive
-title: Research
+title: Research Posts
 ---
