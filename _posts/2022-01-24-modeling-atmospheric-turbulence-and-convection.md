@@ -7,7 +7,7 @@ tags: [turbulence,convection]
 image: castellanus_andros.jpg
 ---
 
-The landform in the photograph shown above is Andros Island, in the Bahamas. Andros Island is about 60 km wide, close to the horizontal resolution that current climate models can afford. Climate models leverage our knowledge of the equations of fluid motion to forecast future changes in the atmosphere and the ocean due to, among other things, anthropogenic forcing.
+The landform in the [photograph](https://earthobservatory.nasa.gov/images/91584/castellanus-cloud-tower?src=ve) shown above is Andros Island, in the Bahamas. Andros Island is about 60 km wide, close to the horizontal resolution that current climate models can afford. Climate models leverage our knowledge of the equations of fluid motion to forecast future changes in the atmosphere and the ocean due to, among other things, anthropogenic forcing.
 
 Although all climate models robustly forecast global warming as a consequence of rising $CO_2$ levels, predictions for just how fast the Earth will warm in the future vary. The largest contribution to this uncertainty comes from clouds. Clouds have an outsized effect on climate due to their radiative properties. However, the phenomena responsible for the formation of clouds act on scales smaller than the resolution of climate models, as seen in the picture of Andros Island, and thus cannot be resolved explicitly. The myriad methods used by models to compensate for this fact leads to a spread in model predictions.
 
