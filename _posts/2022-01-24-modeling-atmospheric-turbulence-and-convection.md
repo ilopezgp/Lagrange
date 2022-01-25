@@ -3,7 +3,7 @@ layout: post
 title: "Modeling atmospheric turbulence and convection"
 author: "Ignacio Lopez Gomez"
 categories: journal
-tags: [documentation,sample]
+tags: [turbulence,convection]
 image: castellanus_andros.jpg
 ---
 
