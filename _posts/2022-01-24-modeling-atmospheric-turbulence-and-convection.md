@@ -13,11 +13,15 @@ Although all climate models robustly forecast global warming as a consequence of
 
 Mathematically, the effect of finite resolution on climate model forecasts can be expressed in a compact way if we consider the dynamics of an atmospheric tracer, such as the specific humidity $q$,
 
-$$\dfrac{\partial (\rho q)}{\partial t} = - \nabla\cdot (\rho \mathbf{u} q) + \rho S_{q}$$,
+$$
+\dfrac{\partial (\rho q)}{\partial t} = - \nabla\cdot (\rho \mathbf{u} q) + \rho S_{q},
+$$
 
 where $\rho$ is the air density, $S_{q}$ represents all sources and sinks of specific humidity and $\mathbf{u}$ is the velocity vector. If we average this equation over a climate model grid box, denoting averages as $(\bar{\cdot})$ and deviations from the average as $(\cdot')$,
 
-$$\dfrac{\partial (\bar{\rho} \bar{q})}{\partial t} = - \nabla\cdot (\bar{\rho} \bar{\mathbf{u}} \bar{q}) - \nabla\cdot (\bar{\rho} \overline{\mathbf{u}'q'}) + \bar{\rho} \bar{S_{q}}$$,
+$$
+\dfrac{\partial (\bar{\rho} \bar{q})}{\partial t} = - \nabla\cdot (\bar{\rho} \bar{\mathbf{u}} \bar{q}) - \nabla\cdot (\bar{\rho} \overline{\mathbf{u}'q'}) + \bar{\rho} \bar{S_{q}},
+$$
 
 a new term arises, $\nabla\cdot (\rho \overline{\mathbf{u}'q'})$. This flux divergence represents the effect that the small-scale correlations between the wind speed and moisture has on the grid average $\bar{q}$. Climate models can only compute grid-mean quantities (i.e., $\bar{q}$ or $\bar{\mathbf{u}}$), which means that this flux divergence encapsulates climate model errors due to a lack of resolution.
 
@@ -25,7 +29,9 @@ Consider again the picture of Andros Island above. Towering castellanus clouds l
 
 Climate models can reduce errors associated with this unknown flux divergence through the use of parameterizations $f(\cdot)$ based on the variables they do have access to, such that ideally they have the same aggregate effect on the grid mean variables,
 
-$$  \nabla\cdot (\bar{\rho} \overline{\mathbf{u}'q'}) \approx \nabla\cdot (f(\bar{\mathbf{u}}, \bar{q}, \dots))$$.
+$$
+\nabla\cdot (\bar{\rho} \overline{\mathbf{u}'q'}) \approx \nabla\cdot (f(\bar{\mathbf{u}}, \bar{q}, \dots)).
+$$
 
 Improving such parameterizations is an active research topic that has the potential to reduce biases and uncertainty in climate projections. These parameterizations must include the effects of all unresolved dynamical processes, and ideally encapsulate the interaction between subgrid process consistently.
 
