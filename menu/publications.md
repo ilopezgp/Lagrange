@@ -23,6 +23,10 @@ del Pozo, D., Lopez-Gomez, I., Romero, I. (2019) **A robust asymmetrical contact
 
 ### Conference presentations
 
+A Net-Dissipation Parameterization of Turbulence in the Atmospheric Boundary Layer (_Upcoming_). *24th AMS Conference on Boundary Layers and Turbulence*, Sibenik, Croatia.
+
+Calibrating parameterizations with ensemble Kalman methods and high-resolution data (_Upcoming_). *SIAM Mathematics of Planet Earth 2022*, Pittsburgh, PA.
+
 Global Extreme Heat Forecasting on Subseasonal Time Scales Using Deep Learning. *American Meteorological Society Annual Meeting 2022*, Houston, TX.
 
 Calibrating parameterizations with ensemble Kalman methods and high-resolution data. *American Geophysical Union, Fall Meeting 2021*, New Orleans, LA.
