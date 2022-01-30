@@ -3,7 +3,7 @@ layout: post
 title: "Modeling atmospheric turbulence and convection"
 author: "Ignacio Lopez Gomez"
 categories: journal
-tags: [turbulence,convection]
+tags: [turbulence,convection,clouds]
 image: castellanus_andros.jpg
 ---
 
@@ -23,7 +23,7 @@ $$
 \dfrac{\partial (\bar{\rho} \bar{q})}{\partial t} = - \nabla\cdot (\bar{\rho} \bar{\mathbf{u}} \bar{q}) - \nabla\cdot (\bar{\rho} \overline{\mathbf{u}'q'}) + \bar{\rho} \bar{S_{q}},
 $$
 
-a new term arises, $\nabla\cdot (\rho \overline{\mathbf{u}'q'})$. This flux divergence represents the effect that the small-scale correlations between the wind speed and moisture has on the grid average $\bar{q}$. Climate models can only compute grid-mean quantities (i.e., $\bar{q}$ or $\bar{\mathbf{u}}$), which means that this flux divergence encapsulates climate model errors due to a lack of resolution.
+a new term arises, $\nabla\cdot (\rho \overline{\mathbf{u}'q'})$. This flux divergence represents the effect that the small-scale correlations between the wind speed and moisture have on the grid average $\bar{q}$. Climate models can only compute grid-mean quantities (i.e., $\bar{q}$ or $\bar{\mathbf{u}}$), which means that this flux divergence encapsulates climate model errors due to a lack of resolution.
 
 Consider again the picture of Andros Island above. Towering castellanus clouds like the one at the forefront of the scene occur when moist ($q' > 0$) warm air rises at high vertical speed ($\mathbf{u}'\cdot \mathbf{k} > 0$) due to convection. If instead, rising air parcels were forecast to be drier ($q \approx \bar{q}$) and roughly quiescent ($\mathbf{u}\cdot \mathbf{k} \approx 0$), many of the clouds in the scene would disappear.
 
@@ -33,7 +33,7 @@ $$
 \nabla\cdot (\bar{\rho} \overline{\mathbf{u}'q'}) \approx \nabla\cdot (f(\bar{\mathbf{u}}, \bar{q}, \dots)).
 $$
 
-Improving such parameterizations is an active research topic that has the potential to reduce biases and uncertainty in climate projections. These parameterizations must include the effects of all unresolved dynamical processes, and ideally encapsulate the interaction between subgrid process consistently.
+Improving such parameterizations is an active research topic that has the potential to reduce biases and uncertainty in climate projections. These parameterizations must include the effects of all unresolved dynamical processes, and ideally represent the interaction between subgrid processes consistently.
 
 Two unresolved processes of great dynamic importance are turbulence and convection. A particularly powerful framework to parameterize both processes in a consistent way is the one provided by Eddy-Diffusivity Mass-Flux (EDMF) schemes. In this framework, the problem of finding an optimal parameterization $f(\cdot)$ representing the complex unresolved dynamics in the lower troposphere can be broken down into three fundamental problems:
 
