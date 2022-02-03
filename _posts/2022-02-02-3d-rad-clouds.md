@@ -19,13 +19,13 @@ How important is this lateral scattering effect in practice? Although three-dime
 
 | ![fig-vis-clouds.png](/assets/img/fig-vis-clouds.png) | 
 |:--:| 
-| *High-resolution simulations of shallow cumulus (a,b), stratocumulus (c) and deep cumulonimbus clouds. These simulations can be used to estimate the effect of lateral light scattering on Earth's albedo near the tropics.* |
+| *High-resolution simulations of shallow cumulus (a,b), stratocumulus (c) and deep cumulonimbus clouds. These simulations can be used to estimate the effect of lateral light scattering on Earth's albedo near the tropics (Singer et al. 2021)* |
 
-In an article published in the _Journal of Atmospheric Sciences_, we used an ensemble of cloud-resolving simulations to estimate the radiative effect of lateral light scattering ([Singer et al 2021](https://doi.org/10.1175/JAS-D-21-0032.1)). We found that, in the tropics, lateral light scattering reduces Earth's albedo and results in a net warming effect of $3.1 \pm 1.6~\mathrm{W}~\mathrm{m}^{-2}$. Therefore, neglecting this effect in cloud-resolving models results in a cooling bias of the same magnitude.
+In an article published in the _Journal of Atmospheric Sciences_, we used an ensemble of cloud-resolving simulations to estimate the radiative effect of lateral light scattering ([Singer et al. 2021](https://doi.org/10.1175/JAS-D-21-0032.1)). We found that, in the tropics, lateral light scattering reduces Earth's albedo and results in a net warming effect of $3.1 \pm 1.6~\mathrm{W}~\mathrm{m}^{-2}$. Therefore, neglecting this effect in cloud-resolving models results in a cooling bias of the same magnitude.
 
 | ![fig-bias-cwp-map.png](/assets/img/fig-bias-cwp-map.png) | 
 |:--:| 
-| *Annual mean radiative flux bias in cloud-resolving models that make the independent column approximation. The results are most robust equatorward of $\pm30^\circ$.* |
+| *Annual mean radiative flux bias in cloud-resolving models that make the independent column approximation. The results are most robust equatorward of $\pm30^\circ$ (Singer et al. 2021).* |
 
 Although this bias is smaller than those induced by unresolved cloud processes in current climate models, it is comparable to the GHG warming signal of $2.5-3.1~\mathrm{W}~\mathrm{m}^{-2}$. Moreover, it is a bias that will need to be addressed for decades to come, even in global cloud-resolving models. 
 
