@@ -7,9 +7,9 @@ backup_image: stratocumulus-baja.jpg
 
 ### Preprints
 
-He, J., Cohen, Y., Lopez-Gomez, I., Jaruga, A., Schneider, T. (2021) **An improved perturbation pressure closure for eddy-diffusivity mass-flux schemes**, submitted. [preprint](https://doi.org/10.1002/essoar.10505084.2)
+Chure, G., Banks, R. A., Flamholz, A. I., Sarai, N. S., Kamb, M., Lopez-Gomez, I., Bar-On, Y. M., Milo, R., Phillips, R. (2022) **Anthroponumbers.org: A Quantitative Database Of Human Impacts on Planet Earth** [bioRxiv](https://doi.org/10.1101/2022.03.04.483053)
 
-Chure, G., Banks, R. A., Flamholz, A. I., Sarai, N. S., Kamb, M., Lopez-Gomez, I., Bar-On, Y. M., Milo, R., Phillips, R. (2021) **The Anthropocene by the numbers: A quantitative snapshot of Humanity's influence on the planet** [arXiv](https://arxiv.org/abs/2101.09620)
+He, J., Cohen, Y., Lopez-Gomez, I., Jaruga, A., Schneider, T. (2021) **An improved perturbation pressure closure for eddy-diffusivity mass-flux schemes**, submitted. [preprint](https://doi.org/10.1002/essoar.10505084.2)
 
 ### Peer-reviewed articles
 
