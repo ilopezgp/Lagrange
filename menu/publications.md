@@ -31,6 +31,8 @@ A Net-Dissipation Parameterization of Turbulence in the Atmospheric Boundary Lay
 
 Training Physics-Based Machine-Learning Parameterizations with Ensemble Kalman Methods (_Upcoming_). *SIAM Mathematics of Planet Earth 2022*, July 13-15 2022, Pittsburgh, PA. [Website](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73939)
 
+Machine Learning Parameterizations as an Inverse Problem. *Exploring the Frontiers in Earth System Modeling with Machine Learning and Big Data*, Aspen Global Change Institute, June 5-10 2022, Aspen, CO. [Website](https://www.agci.org/event/22s3)
+
 Panelist at event *Climate Change: Los Angeles Youth in Action*, organized by the Los Angeles World Affairs Council & Town Hall (LAWACTH), Earth Day 2022, Los Angeles, CA.
 
 Global Extreme Heat Forecasting on Subseasonal Time Scales Using Deep Learning. *American Meteorological Society Annual Meeting 2022*, Houston, TX.
