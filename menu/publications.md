@@ -9,11 +9,11 @@ backup_image: stratocumulus-baja.jpg
 
 Lopez-Gomez, I., McGovern, A., Agrawal, S., Hickey, J. (2022) **Global Extreme Heat Forecasting Using Neural Weather Models**, under review, *Artificial Intelligence for the Earth Systems*. [arXiv](https://arxiv.org/abs/2205.10972)
 
-Lopez-Gomez, I., Christopoulos, C., Langeland Ervik, H. L., Dunbar, O. R. A., Cohen, Y., Schneider, T. (2022) **Training physics-based machine-learning parameterizations with gradient-free ensemble Kalman methods**, accepted, *Journal of Advances in Modeling Earth Systems*. [preprint](https://doi.org/10.1002/essoar.10510937.2)
-
 He, J., Cohen, Y., Lopez-Gomez, I., Jaruga, A., Schneider, T. (2021) **An improved perturbation pressure closure for eddy-diffusivity mass-flux schemes**. [preprint](https://doi.org/10.1002/essoar.10505084.2)
 
 ### Peer-reviewed articles
+
+Lopez-Gomez, I., Christopoulos, C., Langeland Ervik, H. L., Dunbar, O. R. A., Cohen, Y., Schneider, T. (2022) **Training physics-based machine-learning parameterizations with gradient-free ensemble Kalman methods**, *Journal of Advances in Modeling Earth Systems*, 14, e2022MS003105. [doi](https://doi.org/10.1029/2022MS003105)  [pdf](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022MS003105)
 
 Chure, G., Banks, R. A., Flamholz, A. I., Sarai, N. S., Kamb, M., Lopez-Gomez, I., Bar-On, Y. M., Milo, R., Phillips, R. (2022) **Anthroponumbers.org: A Quantitative Database Of Human Impacts on Planet Earth**, *Patterns*, 3, 100552. [doi](https://doi.org/10.1016/j.patter.2022.100552)
 
