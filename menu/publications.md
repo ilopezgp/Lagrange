@@ -15,7 +15,7 @@ He, J., Cohen, Y., Lopez-Gomez, I., Jaruga, A., Schneider, T. (2021) **An improv
 
 Lopez-Gomez, I., Christopoulos, C., Langeland Ervik, H. L., Dunbar, O. R. A., Cohen, Y., Schneider, T. (2022) **Training physics-based machine-learning parameterizations with gradient-free ensemble Kalman methods**, *Journal of Advances in Modeling Earth Systems*, 14, e2022MS003105. [doi](https://doi.org/10.1029/2022MS003105)  [pdf](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022MS003105)
 
-Chure, G., Banks, R. A., Flamholz, A. I., Sarai, N. S., Kamb, M., Lopez-Gomez, I., Bar-On, Y. M., Milo, R., Phillips, R. (2022) **Anthroponumbers.org: A Quantitative Database Of Human Impacts on Planet Earth**, *Patterns*, 3, 100552. [doi](https://doi.org/10.1016/j.patter.2022.100552)
+Chure, G., Banks, R. A., Flamholz, A. I., Sarai, N. S., Kamb, M., Lopez-Gomez, I., Bar-On, Y. M., Milo, R., Phillips, R. (2022) **Anthroponumbers.org: A Quantitative Database Of Human Impacts on Planet Earth**, *Patterns*, 3, 100552. [doi](https://doi.org/10.1016/j.patter.2022.100552) [pdf](https://www.cell.com/action/showPdf?pii=S2666-3899%2822%2900157-X)
 
 Singer, C.E., Lopez-Gomez, I., Zhang, X., Schneider, T. (2021) **Top-of-atmosphere albedo bias from neglecting three-dimensional cloud radiative effects**, *Journal of the Atmospheric Sciences*, 78, 4053-4069. [doi](https://doi.org/10.1175/JAS-D-21-0032.1)  [pdf](https://ilopezgp.github.io/assets/papers/Singer_LopezGomez_Zhang_Schneider_2021.pdf)
 
@@ -27,7 +27,7 @@ del Pozo, D., Lopez-Gomez, I., Romero, I. (2019) **A robust asymmetrical contact
 
 ### Conference presentations
 
-A Net-Dissipation Parameterization of Turbulence in the Atmospheric Boundary Layer (_Upcoming_). *24th AMS Conference on Boundary Layers and Turbulence*, 8–12 January 2023, Denver, CO.
+A Net-Dissipation Parameterization of Turbulence in the Atmospheric Boundary Layer (_Upcoming_). *24th AMS Conference on Boundary Layers and Turbulence*, 8-12 January 2023, Denver, CO.
 
 Training Physics-Based Machine-Learning Parameterizations with Ensemble Kalman Methods. *SIAM Mathematics of Planet Earth 2022*, July 13-15 2022, Pittsburgh, PA. [Website](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73939)
 
