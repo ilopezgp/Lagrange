@@ -35,9 +35,9 @@ Machine Learning Parameterizations as an Inverse Problem. *Exploring the Frontie
 
 Panelist at event *Climate Change: Los Angeles Youth in Action*, organized by the Los Angeles World Affairs Council & Town Hall (LAWACTH), Earth Day 2022, Los Angeles, CA.
 
-Global Extreme Heat Forecasting on Subseasonal Time Scales Using Deep Learning. *American Meteorological Society Annual Meeting 2022*, Houston, TX.
+Global Extreme Heat Forecasting on Subseasonal Time Scales Using Deep Learning. *American Meteorological Society Annual Meeting 2022*, 23–27 January 2022, Houston, TX. [Website](https://ams.confex.com/ams/102ANNUAL/meetingapp.cgi/Paper/398734)
 
-Calibrating parameterizations with ensemble Kalman methods and high-resolution data. *American Geophysical Union, Fall Meeting 2021*, New Orleans, LA.
+Calibrating parameterizations with ensemble Kalman methods and high-resolution data. *American Geophysical Union, Fall Meeting 2021*, 13-17 December 2021, New Orleans, LA. [Abstract](https://ui.adsabs.harvard.edu/abs/2021AGUFM.A55C1387L/abstract)
 
 Predicting Extreme Heat using Physics-based AI. *3rd NOAA Workshop on Leveraging AI in Environmental Sciences, September 2021*, Virtual Session. [Website](https://2021noaaaiworkshop.sched.com/)
 
