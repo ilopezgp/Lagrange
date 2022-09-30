@@ -7,9 +7,9 @@ backup_image: stratocumulus-baja.jpg
 
 ### Preprints
 
-Lopez-Gomez, I., McGovern, A., Agrawal, S., Hickey, J. (2022) **Global Extreme Heat Forecasting Using Neural Weather Models**, under review, *Artificial Intelligence for the Earth Systems*. [arXiv](https://arxiv.org/abs/2205.10972)
+Dunbar<sup>\*</sup>, O. R. A., Lopez-Gomez<sup>\*</sup>, I., Garbuno-Iñigo, A., Huang, D. Z., Bach, E., Wu, J. (2022) **EnsembleKalmanProcesses.jl: Derivative-free ensemble-based model calibration**, submitted, *Journal of Open Source Software*. [preprint](https://github.com/CliMA/EnsembleKalmanProcesses.jl/blob/main/paper.pdf)
 
-He, J., Cohen, Y., Lopez-Gomez, I., Jaruga, A., Schneider, T. (2021) **An improved perturbation pressure closure for eddy-diffusivity mass-flux schemes**. [preprint](https://doi.org/10.1002/essoar.10505084.2)
+Lopez-Gomez, I., McGovern, A., Agrawal, S., Hickey, J. (2022) **Global Extreme Heat Forecasting Using Neural Weather Models**, under review, *Artificial Intelligence for the Earth Systems*. [arXiv](https://arxiv.org/abs/2205.10972)
 
 ### Peer-reviewed articles
 
