@@ -29,7 +29,7 @@ del Pozo, D., Lopez-Gomez, I., Romero, I. (2019) **A robust asymmetrical contact
 
 A Net-Dissipation Parameterization of Turbulence in the Atmospheric Boundary Layer (_Upcoming_). *24th AMS Symposium on Boundary Layers and Turbulence*, 8-12 January 2023, Denver, CO.
 
-Unifying Turbulence and Convection Parameterizations: The Extended Eddy-Diffusivity Mass-Flux Scheme (_Upcoming_). *Akio Arakawa Symposium: : Modeling Convection, Clouds and Climate Systems*, 17-18 October 2022, UCLA, Los Angeles, CA. [Website](https://aos.ucla.edu/arakawa-symposium/)
+Unifying Turbulence and Convection Parameterizations: The Extended Eddy-Diffusivity Mass-Flux Scheme (_Upcoming_). *Akio Arakawa Symposium: Modeling Convection, Clouds and Climate Systems*, 17-18 October 2022, UCLA, Los Angeles, CA. [Website](https://aos.ucla.edu/arakawa-symposium/)
 
 Training Physics-Based Machine-Learning Parameterizations with Ensemble Kalman Methods. *SIAM Mathematics of Planet Earth 2022*, July 13-15 2022, Pittsburgh, PA. [Website](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73939)
 
