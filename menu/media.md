@@ -1,7 +1,7 @@
 ---
 layout: page
 title: In the Media
-image: anthroponumbers_cover.jpg
+image: anthroponumbers_cover.webp
 backup_image: anthroponumbers_cover.jpg
 ---
 
