@@ -1,8 +1,8 @@
 ---
 layout: page
 title: In the Media
-image: anthroponumbers_cover.webp
-backup_image: anthroponumbers_cover.jpg
+image: Human-Impact-on-the-Planet.webp
+backup_image: Human-Impact-on-the-Planet.jpg
 ---
 
 ### 2022
