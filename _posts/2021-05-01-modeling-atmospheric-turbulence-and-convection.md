@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Modeling atmospheric turbulence and convection"
-author: "Ignacio Lopez Gomez"
+author: "Ignacio Lopez-Gomez"
 categories: journal
 tags: [turbulence,convection,clouds]
 image: castellanus_andros.jpg

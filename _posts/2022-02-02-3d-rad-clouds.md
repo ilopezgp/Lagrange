@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lateral light scattering by clouds reduces Earth's albedo"
-author: "Ignacio Lopez Gomez"
+author: "Ignacio Lopez-Gomez"
 categories: journal
 tags: [radiation,clouds]
 image: indianocean_amo_2020029.jpg
