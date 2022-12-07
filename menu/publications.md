@@ -7,7 +7,7 @@ backup_image: stratocumulus-baja.jpg
 
 ### Preprints
 
-Dunbar<sup>\*</sup>, O. R. A., Lopez-Gomez<sup>\*</sup>, I., Garbuno-Iñigo, A., Huang, D. Z., Bach, E., Wu, J. (2022) **EnsembleKalmanProcesses.jl: Derivative-free ensemble-based model calibration**, under review, *Journal of Open Source Software*. [preprint](https://github.com/CliMA/EnsembleKalmanProcesses.jl/blob/main/paper.pdf) [open review](https://github.com/openjournals/joss-reviews/issues/4869)
+Dunbar<sup>\*</sup>, O. R. A., Lopez-Gomez<sup>\*</sup>, I., Garbuno-Iñigo, A., Huang, D. Z., Bach, E., Wu, J. (2022) **EnsembleKalmanProcesses.jl: Derivative-free ensemble-based model calibration**, accepted, *Journal of Open Source Software*. [preprint](https://github.com/CliMA/EnsembleKalmanProcesses.jl/blob/main/paper.pdf) [open review](https://github.com/openjournals/joss-reviews/issues/4869)
 
 Lopez-Gomez, I., McGovern, A., Agrawal, S., Hickey, J. (2022) **Global Extreme Heat Forecasting Using Neural Weather Models**, in press, *Artificial Intelligence for the Earth Systems*. [arXiv](https://arxiv.org/abs/2205.10972)
 
