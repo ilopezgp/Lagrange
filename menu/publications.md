@@ -5,17 +5,15 @@ image: stratocumulus-baja.webp
 backup_image: stratocumulus-baja.jpg
 ---
 
-### Preprints
-
-Lopez-Gomez, I., McGovern, A., Agrawal, S., Hickey, J. (2022) **Global Extreme Heat Forecasting Using Neural Weather Models**, in press, *Artificial Intelligence for the Earth Systems*. [arXiv](https://arxiv.org/abs/2205.10972)
-
 ### Peer-reviewed articles
+
+Lopez-Gomez, I., McGovern, A., Agrawal, S., Hickey, J. (2022) **Global extreme heat forecasting using neural weather models**, in press, *Artificial Intelligence for the Earth Systems*. [doi](https://doi.org/10.1175/AIES-D-22-0035.1)
 
 Dunbar<sup>\*</sup>, O. R. A., Lopez-Gomez<sup>\*</sup>, I., Garbuno-Iñigo, A., Huang, D. Z., Bach, E., Wu, J. (2022) **EnsembleKalmanProcesses.jl: Derivative-free ensemble-based model calibration**, *Journal of Open Source Software*, 7, 4869. [doi](https://doi.org/10.21105/joss.04869)
 
 Lopez-Gomez, I., Christopoulos, C., Langeland Ervik, H. L., Dunbar, O. R. A., Cohen, Y., Schneider, T. (2022) **Training physics-based machine-learning parameterizations with gradient-free ensemble Kalman methods**, *Journal of Advances in Modeling Earth Systems*, 14, e2022MS003105. [doi](https://doi.org/10.1029/2022MS003105)  [pdf](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022MS003105)
 
-Chure, G., Banks, R. A., Flamholz, A. I., Sarai, N. S., Kamb, M., Lopez-Gomez, I., Bar-On, Y. M., Milo, R., Phillips, R. (2022) **Anthroponumbers.org: A Quantitative Database Of Human Impacts on Planet Earth**, *Patterns*, 3, 100552. [doi](https://doi.org/10.1016/j.patter.2022.100552) [pdf](https://www.cell.com/action/showPdf?pii=S2666-3899%2822%2900157-X)
+Chure, G., Banks, R. A., Flamholz, A. I., Sarai, N. S., Kamb, M., Lopez-Gomez, I., Bar-On, Y. M., Milo, R., Phillips, R. (2022) **Anthroponumbers.org: A quantitative database of human impacts on planet Earth**, *Patterns*, 3, 100552. [doi](https://doi.org/10.1016/j.patter.2022.100552) [pdf](https://www.cell.com/action/showPdf?pii=S2666-3899%2822%2900157-X)
 
 Singer, C.E., Lopez-Gomez, I., Zhang, X., Schneider, T. (2021) **Top-of-atmosphere albedo bias from neglecting three-dimensional cloud radiative effects**, *Journal of the Atmospheric Sciences*, 78, 4053-4069. [doi](https://doi.org/10.1175/JAS-D-21-0032.1)  [pdf](https://ilopezgp.github.io/assets/papers/Singer_LopezGomez_Zhang_Schneider_2021.pdf)
 
@@ -27,7 +25,7 @@ del Pozo, D., Lopez-Gomez, I., Romero, I. (2019) **A robust asymmetrical contact
 
 ### Conference presentations
 
-Enhanced deep learning-based forecasting of extreme heat through custom exponential losses (_Upcoming_). *22nd Conference on Artificial Intelligence for Environmental Science*, 8-12 January 2023, Denver, CO. [Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/420090)
+Enhanced Deep Learning-Based Forecasting of Extreme Heat Through Custom Exponential Losses (_Upcoming_). *22nd Conference on Artificial Intelligence for Environmental Science*, 8-12 January 2023, Denver, CO. [Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/420090)
 
 A Net-Dissipation Parameterization of Turbulence in the Atmospheric Boundary Layer (_Upcoming_). *24th AMS Symposium on Boundary Layers and Turbulence*, 8-12 January 2023, Denver, CO. [Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/406661)
 
