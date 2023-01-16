@@ -25,9 +25,9 @@ del Pozo, D., Lopez-Gomez, I., Romero, I. (2019) **A robust asymmetrical contact
 
 ### Conference presentations
 
-Enhanced Deep Learning-Based Forecasting of Extreme Heat Through Custom Exponential Losses (_Upcoming_). *22nd Conference on Artificial Intelligence for Environmental Science*, 8-12 January 2023, Denver, CO. [Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/420090)
+Enhanced Deep Learning-Based Forecasting of Extreme Heat Through Custom Exponential Losses. *22nd Conference on Artificial Intelligence for Environmental Science, American Meteorological Society Annual Meeting 2023*, 8-12 January 2023, Denver, CO. [Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/420090)
 
-A Net-Dissipation Parameterization of Turbulence in the Atmospheric Boundary Layer (_Upcoming_). *24th AMS Symposium on Boundary Layers and Turbulence*, 8-12 January 2023, Denver, CO. [Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/406661)
+A Net-Dissipation Parameterization of Turbulence in the Atmospheric Boundary Layer. *24th AMS Symposium on Boundary Layers and Turbulence, American Meteorological Society Annual Meeting 2023*, 8-12 January 2023, Denver, CO. [Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/406661)
 
 Unifying Turbulence and Convection Parameterizations: The Extended Eddy-Diffusivity Mass-Flux Scheme. *Akio Arakawa Symposium: Modeling Convection, Clouds and Climate Systems*, 17-18 October 2022, UCLA, Los Angeles, CA. [Website](https://aos.ucla.edu/arakawa-symposium/)
 
@@ -37,7 +37,7 @@ Machine Learning Parameterizations as an Inverse Problem. *Exploring the Frontie
 
 Panelist at event *Climate Change: Los Angeles Youth in Action*, organized by the Los Angeles World Affairs Council & Town Hall (LAWACTH), Earth Day 2022, Los Angeles, CA.
 
-Global Extreme Heat Forecasting on Subseasonal Time Scales Using Deep Learning. *American Meteorological Society Annual Meeting 2022*, 23–27 January 2022, Houston, TX. [Website](https://ams.confex.com/ams/102ANNUAL/meetingapp.cgi/Paper/398734)
+Global Extreme Heat Forecasting on Subseasonal Time Scales Using Deep Learning. *21st Conference on Artificial Intelligence for Environmental Science, American Meteorological Society Annual Meeting 2022*, 23–27 January 2022, Houston, TX. [Website](https://ams.confex.com/ams/102ANNUAL/meetingapp.cgi/Paper/398734)
 
 Calibrating parameterizations with ensemble Kalman methods and high-resolution data. *American Geophysical Union, Fall Meeting 2021*, 13-17 December 2021, New Orleans, LA. [Abstract](https://ui.adsabs.harvard.edu/abs/2021AGUFM.A55C1387L/abstract)
 
