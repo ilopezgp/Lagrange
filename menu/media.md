@@ -5,6 +5,10 @@ image: Human-Impact-on-the-Planet.webp
 backup_image: Human-Impact-on-the-Planet.jpg
 ---
 
+### 2023
+
+[Learning about climate model parameterizations as an inverse problem](https://clima.caltech.edu/2023/02/16/learning-about-climate-model-parameterizations-as-an-inverse-problem/)
+
 ### 2022
 
 [Striking Graphs That Show Humanity’s Domination of the Earth](https://www.wired.com/story/striking-graphs-that-show-humanitys-domination-of-the-earth/)
