@@ -7,7 +7,7 @@ backup_image: stratocumulus-baja.jpg
 
 ### Peer-reviewed articles
 
-Lopez-Gomez, I., McGovern, A., Agrawal, S., Hickey, J. (2022) **Global extreme heat forecasting using neural weather models**, in press, *Artificial Intelligence for the Earth Systems*. [doi](https://doi.org/10.1175/AIES-D-22-0035.1)
+Lopez-Gomez, I., McGovern, A., Agrawal, S., Hickey, J. (2023) **Global extreme heat forecasting using neural weather models**, *Artificial Intelligence for the Earth Systems*, 2, e220035. [doi](https://doi.org/10.1175/AIES-D-22-0035.1)
 
 Dunbar<sup>\*</sup>, O. R. A., Lopez-Gomez<sup>\*</sup>, I., Garbuno-Iñigo, A., Huang, D. Z., Bach, E., Wu, J. (2022) **EnsembleKalmanProcesses.jl: Derivative-free ensemble-based model calibration**, *Journal of Open Source Software*, 7, 4869. [doi](https://doi.org/10.21105/joss.04869)
 
