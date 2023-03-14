@@ -25,6 +25,8 @@ del Pozo, D., Lopez-Gomez, I., Romero, I. (2019) **A robust asymmetrical contact
 
 ### Conference presentations
 
+Panelist at *AI Climate Tipping-Point Discovery Symposium, Association for the Advancement of Artificial Intelligence SSS-23*, 27-29 March 2023, San Francisco, CA. [Website](https://secwww.jhuapl.edu/EventLink/Event/220)
+
 Enhanced Deep Learning-Based Forecasting of Extreme Heat Through Custom Exponential Losses. *22nd Conference on Artificial Intelligence for Environmental Science, American Meteorological Society Annual Meeting 2023*, 8-12 January 2023, Denver, CO. [Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/420090)
 
 A Net-Dissipation Parameterization of Turbulence in the Atmospheric Boundary Layer. *24th AMS Symposium on Boundary Layers and Turbulence, American Meteorological Society Annual Meeting 2023*, 8-12 January 2023, Denver, CO. [Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/406661)
