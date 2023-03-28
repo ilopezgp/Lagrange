@@ -25,6 +25,8 @@ del Pozo, D., Lopez-Gomez, I., Romero, I. (2019) **A robust asymmetrical contact
 
 ### Conference presentations
 
+Panel Discussion: How do we find new opportunities at the intersection of AI and climate tipping point research? *AI Climate Tipping-Point Discovery Symposium, Association for the Advancement of Artificial Intelligence SSS-23*, 27-29 March 2023, San Francisco, CA. [Website](https://secwww.jhuapl.edu/EventLink/Event/220)
+
 Learning to represent the physics of climate transitions as an
 inverse problem. *AI Climate Tipping-Point Discovery Symposium, Association for the Advancement of Artificial Intelligence SSS-23*, 27-29 March 2023, San Francisco, CA. [Website](https://secwww.jhuapl.edu/EventLink/Event/220)
 
