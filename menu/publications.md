@@ -7,7 +7,7 @@ backup_image: stratocumulus-baja.jpg
 
 ### Preprints
 
-Li, L., Carver<sup>\*</sup>,, R., Lopez-Gomez<sup>\*</sup>,, I., Sha, F., Anderson, J. (2023) **SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models**. [arXiv](https://arxiv.org/abs/2306.14066)
+Li, L., Carver<sup>\*</sup>, R., Lopez-Gomez<sup>\*</sup>, I., Sha, F., Anderson, J. (2023) **SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models**. [arXiv](https://arxiv.org/abs/2306.14066)
 
 
 ### Peer-reviewed articles
