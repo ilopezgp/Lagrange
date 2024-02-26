@@ -7,7 +7,7 @@ backup_image: stratocumulus-baja.jpg
 
 ### Preprints
 
-Li, L., Carver<sup>\*</sup>, R., Lopez-Gomez<sup>\*</sup>, I., Sha, F., Anderson, J. (2023) **SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models**, *under review*. [arXiv](https://arxiv.org/abs/2306.14066)
+Li, L., Carver<sup>\*</sup>, R., Lopez-Gomez<sup>\*</sup>, I., Sha, F., Anderson, J. (2023) **SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models**, *accepted, Science Advances*. [arXiv](https://arxiv.org/abs/2306.14066)
 
 
 ### Peer-reviewed articles
@@ -30,7 +30,7 @@ del Pozo, D., Lopez-Gomez, I., Romero, I. (2019) **A robust asymmetrical contact
 
 ### Conference presentations
 
-Emulation of Weather Forecast Ensembles with Diffusion Models *(upcoming)*. *American Geophysical Union, Fall Meeting 2023*, 11-15 December 2023, San Francisco, CA.
+Emulation of Weather Forecast Ensembles with Diffusion Models. *American Geophysical Union, Fall Meeting 2023*, 11-15 December 2023, San Francisco, CA. [Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1254607)
 
 Panel Discussion: How do we find new opportunities at the intersection of AI and climate tipping point research? *AI Climate Tipping-Point Discovery Symposium, Association for the Advancement of Artificial Intelligence SSS-23*, 27-29 March 2023, San Francisco, CA. [Website](https://secwww.jhuapl.edu/EventLink/Event/220)
 
