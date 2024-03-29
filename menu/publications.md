@@ -5,12 +5,10 @@ image: stratocumulus-baja.webp
 backup_image: stratocumulus-baja.jpg
 ---
 
-### Preprints
-
-Li, L., Carver<sup>\*</sup>, R., Lopez-Gomez<sup>\*</sup>, I., Sha, F., Anderson, J. (2023) **SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models**, *accepted, Science Advances*. [arXiv](https://arxiv.org/abs/2306.14066)
-
 
 ### Peer-reviewed articles
+
+Li, L., Carver<sup>\*</sup>, R., Lopez-Gomez<sup>\*</sup>, I., Sha, F., Anderson, J. (2024) **Generative emulation of weather forecast ensembles with diffusion models**, *Science Advances*, 10, eadk4489. [doi](https://doi.org/10.1126/sciadv.adk4489)
 
 Lopez-Gomez, I., McGovern, A., Agrawal, S., Hickey, J. (2023) **Global extreme heat forecasting using neural weather models**, *Artificial Intelligence for the Earth Systems*, 2, e220035. [doi](https://doi.org/10.1175/AIES-D-22-0035.1)
 
