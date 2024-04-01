@@ -5,6 +5,12 @@ image: Human-Impact-on-the-Planet.webp
 backup_image: Human-Impact-on-the-Planet.jpg
 ---
 
+### 2024
+
+[Google Announces Generative AI Model to Mitigate the Uncertainty in Weather Forecasting](https://www.gadgets360.com/ai/news/google-research-generative-ai-model-for-reducing-uncertainty-in-weather-forecasting-5350159)
+
+[Generative AI to quantify uncertainty in weather forecasting](https://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html)
+
 ### 2023
 
 [(*In Spanish*) La inteligencia artificial de Google predice el tiempo que hará en el planeta en solo un minuto](https://elpais.com/ciencia/2023-11-14/la-inteligencia-artificial-de-google-predice-el-tiempo-que-hara-en-el-planeta-en-solo-un-minuto.html)
