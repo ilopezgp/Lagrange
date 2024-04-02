@@ -7,6 +7,8 @@ backup_image: Human-Impact-on-the-Planet.jpg
 
 ### 2024
 
+[Google's new tool can reduce the cost of existing AI weather forecasting](https://www.androidpolice.com/google-seeds-weather-forecast-ai-prediction/)
+
 [Google Announces Generative AI Model to Mitigate the Uncertainty in Weather Forecasting](https://www.gadgets360.com/ai/news/google-research-generative-ai-model-for-reducing-uncertainty-in-weather-forecasting-5350159)
 
 [Generative AI to quantify uncertainty in weather forecasting](https://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html)
