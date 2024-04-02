@@ -7,7 +7,9 @@ backup_image: Human-Impact-on-the-Planet.jpg
 
 ### 2024
 
-[Google's new tool can reduce the cost of existing AI weather forecasting](https://www.androidpolice.com/google-seeds-weather-forecast-ai-prediction/)
+[Google's new AI tool can forecast weather at a fraction of the cost](https://www.androidpolice.com/google-seeds-weather-forecast-ai-prediction/)
+
+[Google wants to leverage AI to make weather forecasting more efficient](https://www.androidcentral.com/apps-software/google-wants-to-leverage-ai-to-make-weather-forecasting-more-efficient)
 
 [Google Announces Generative AI Model to Mitigate the Uncertainty in Weather Forecasting](https://www.gadgets360.com/ai/news/google-research-generative-ai-model-for-reducing-uncertainty-in-weather-forecasting-5350159)
 
