@@ -5,6 +5,9 @@ image: stratocumulus-baja.webp
 backup_image: stratocumulus-baja.jpg
 ---
 
+### Preprints
+
+Christopoulos, C., Lopez-Gomez, I., Beucler, T., Cohen, Y., Kawczynski, C., Dunbar, O. R. A., Schneider, T. (2022) **Online Learning of Entrainment Closures in a Hybrid Machine Learning Parameterization**, *under review*. [doi](https://doi.org/10.22541/essoar.171804905.55213571/v1)
 
 ### Peer-reviewed articles
 
@@ -28,6 +31,8 @@ del Pozo, D., Lopez-Gomez, I., Romero, I. (2019) **A robust asymmetrical contact
 
 ### Conference presentations
 
+Generative emulation of weather forecast ensembles with diffusion models. *LEAP-STC, Columbia University*, 25 April 2024, New York City, NY. [Recording](https://www.youtube.com/watch?v=xFGLrQ-IKDA)
+
 Emulation of Weather Forecast Ensembles with Diffusion Models. *American Geophysical Union, Fall Meeting 2023*, 11-15 December 2023, San Francisco, CA. [Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1254607)
 
 Panel Discussion: How do we find new opportunities at the intersection of AI and climate tipping point research? *AI Climate Tipping-Point Discovery Symposium, Association for the Advancement of Artificial Intelligence SSS-23*, 27-29 March 2023, San Francisco, CA. [Website](https://secwww.jhuapl.edu/EventLink/Event/220)
@@ -39,7 +44,7 @@ Enhanced Deep Learning-Based Forecasting of Extreme Heat Through Custom Exponent
 
 A Net-Dissipation Parameterization of Turbulence in the Atmospheric Boundary Layer. *24th AMS Symposium on Boundary Layers and Turbulence, American Meteorological Society Annual Meeting 2023*, 8-12 January 2023, Denver, CO. [Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/406661)
 
-Unifying Turbulence and Convection Parameterizations: The Extended Eddy-Diffusivity Mass-Flux Scheme. *Akio Arakawa Symposium: Modeling Convection, Clouds and Climate Systems*, 17-18 October 2022, UCLA, Los Angeles, CA. [Website](https://aos.ucla.edu/arakawa-symposium/)
+Unifying Turbulence and Convection Parameterizations: The Extended Eddy-Diffusivity Mass-Flux Scheme. *Akio Arakawa Symposium: Modeling Convection, Clouds and Climate Systems*, 17-18 October 2022, UCLA, Los Angeles, CA. [Recording](https://www.youtube.com/watch?v=Ge4nQkglNuI)
 
 Training Physics-Based Machine-Learning Parameterizations with Ensemble Kalman Methods. *SIAM Mathematics of Planet Earth 2022*, July 13-15 2022, Pittsburgh, PA. [Website](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73939)
 
