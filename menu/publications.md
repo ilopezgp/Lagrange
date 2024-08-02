@@ -5,9 +5,13 @@ image: stratocumulus-baja.webp
 backup_image: stratocumulus-baja.jpg
 ---
 
-### Preprints
+### Preprints & submitted articles
 
-Christopoulos, C., Lopez-Gomez, I., Beucler, T., Cohen, Y., Kawczynski, C., Dunbar, O. R. A., Schneider, T. (2024) **Online Learning of Entrainment Closures in a Hybrid Machine Learning Parameterization**, *under review*. [doi](https://doi.org/10.22541/essoar.171804905.55213571/v1)
+Barthel Sorensen, B., Zepeda-Núñez, L., Lopez-Gomez, I., Wan, Z. Y., Carver, R., Sha, F., Sapsis, T. (2024) **A probabilistic framework for learning non-intrusive corrections to long-time climate simulations from short-time training data**, *under review*.
+
+Christopoulos, C., Lopez-Gomez, I., Beucler, T., Cohen, Y., Kawczynski, C., Dunbar, O. R. A., Schneider, T. (2024) **Online learning of entrainment closures in a hybrid machine learning parameterization**, *under review*. [doi](https://doi.org/10.22541/essoar.171804905.55213571/v1)
+
+Eyring, V., Collins, W., ..., Lopez-Gomez, I., ... Zanna. L. (2024) **Pushing the frontiers in climate modelling and analysis with machine learning**, *in press, Nature Climate Change*.
 
 ### Peer-reviewed articles
 
