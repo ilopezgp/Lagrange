@@ -13,7 +13,7 @@ Christopoulos, C., Lopez-Gomez, I., Beucler, T., Cohen, Y., Kawczynski, C., Dunb
 
 ### Peer-reviewed articles
 
-Eyring, V., Collins, W., ..., Lopez-Gomez, I., ... Zanna. L. (2024) **Pushing the frontiers in climate modelling and analysis with machine learning**, *Nature Climate Change*. [doi](https://doi.org/10.1038/s41558-024-02095-y)
+Eyring, V., Collins, W., ..., Lopez-Gomez, I., ... Zanna. L. (2024) **Pushing the frontiers in climate modelling and analysis with machine learning**, *Nature Climate Change*. [doi](https://doi.org/10.1038/s41558-024-02095-y) [pdf](https://ilopezgp.github.io/assets/papers/Eyring_et_al_2024.pdf)
 
 Li, L., Carver<sup>\*</sup>, R., Lopez-Gomez<sup>\*</sup>, I., Sha, F., Anderson, J. (2024) **Generative emulation of weather forecast ensembles with diffusion models**, *Science Advances*, 10, eadk4489. [doi](https://doi.org/10.1126/sciadv.adk4489)
 
