@@ -38,6 +38,8 @@ del Pozo, D., Lopez-Gomez, I., Romero, I. (2019) **A robust asymmetrical contact
 
 ### Conference presentations
 
+Hybrid dynamical-generative downscaling of climate model ensembles. *American Geophysical Union, Fall Meeting 2024*, 9-13 December 2024, Washington, D.C. [Abstract](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1565072)
+
 Generative emulation of weather forecast ensembles with diffusion models. *LEAP-STC, Columbia University*, 25 April 2024, New York City, NY. [Recording](https://www.youtube.com/watch?v=xFGLrQ-IKDA)
 
 Emulation of Weather Forecast Ensembles with Diffusion Models. *American Geophysical Union, Fall Meeting 2023*, 11-15 December 2023, San Francisco, CA. [Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1254607)
