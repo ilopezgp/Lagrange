@@ -7,6 +7,8 @@ backup_image: stratocumulus-baja.jpg
 
 ### Preprints & submitted articles
 
+Lopez-Gomez, I., Wan, Z. Y., Zepeda-Núñez, L., Schneider, T., Anderson, J., Sha, F. (2024) **Dynamical-generative downscaling of climate model ensembles**, *submitted*. [doi](https://arxiv.org/abs/2410.01776)
+
 Guan, Y., Hassanzadeh, P., Schneider, T., Dunbar, O., Huang, D.Z., Wu, J., Lopez-Gomez, I. (2024) **Online learning of eddy-viscosity and backscattering closures for
   geophysical turbulence using ensemble Kalman inversion**, *under review*. [doi](https://doi.org/10.48550/arXiv.2409.04985)
 
