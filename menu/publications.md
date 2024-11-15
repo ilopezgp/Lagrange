@@ -7,16 +7,16 @@ backup_image: stratocumulus-baja.jpg
 
 ### Preprints & submitted articles
 
-Lopez-Gomez, I., Wan, Z. Y., Zepeda-Núñez, L., Schneider, T., Anderson, J., Sha, F. (2024) **Dynamical-generative downscaling of climate model ensembles**, *submitted*. [doi](https://arxiv.org/abs/2410.01776)
+Lopez-Gomez, I., Wan, Z. Y., Zepeda-Núñez, L., Schneider, T., Anderson, J., Sha, F. (2024) **Dynamical-generative downscaling of climate model ensembles**, *under review*. [doi](https://arxiv.org/abs/2410.01776)
 
 Guan, Y., Hassanzadeh, P., Schneider, T., Dunbar, O., Huang, D.Z., Wu, J., Lopez-Gomez, I. (2024) **Online learning of eddy-viscosity and backscattering closures for
   geophysical turbulence using ensemble Kalman inversion**, *under review*. [doi](https://doi.org/10.48550/arXiv.2409.04985)
 
 Barthel Sorensen, B., Zepeda-Núñez, L., Lopez-Gomez, I., Wan, Z. Y., Carver, R., Sha, F., Sapsis, T. (2024) **A probabilistic framework for learning non-intrusive corrections to long-time climate simulations from short-time training data**, *under review*. [doi](https://doi.org/10.48550/arXiv.2408.02688)
 
-Christopoulos, C., Lopez-Gomez, I., Beucler, T., Cohen, Y., Kawczynski, C., Dunbar, O. R. A., Schneider, T. (2024) **Online learning of entrainment closures in a hybrid machine learning parameterization**, *in press, Journal of Advances in Modeling Earth Systems*. [doi](https://doi.org/10.22541/essoar.171804905.55213571/v1)
-
 ### Peer-reviewed articles
+
+Christopoulos, C., Lopez-Gomez, I., Beucler, T., Cohen, Y., Kawczynski, C., Dunbar, O. R. A., Schneider, T. (2024) **Online learning of entrainment closures in a hybrid machine learning parameterization**, *Journal of Advances in Modeling Earth Systems*, 16, e2024MS004485. [doi](https://doi.org/10.1029/2024MS004485)
 
 Eyring, V., Collins, W., ..., Lopez-Gomez, I., ... Zanna. L. (2024) **Pushing the frontiers in climate modelling and analysis with machine learning**, *Nature Climate Change*. [doi](https://doi.org/10.1038/s41558-024-02095-y) [pdf](https://ilopezgp.github.io/assets/papers/Eyring_et_al_2024.pdf)
 
