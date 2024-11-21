@@ -18,7 +18,7 @@ Barthel Sorensen, B., Zepeda-Núñez, L., Lopez-Gomez, I., Wan, Z. Y., Carver, R
 
 Christopoulos, C., Lopez-Gomez, I., Beucler, T., Cohen, Y., Kawczynski, C., Dunbar, O. R. A., Schneider, T. (2024) **Online learning of entrainment closures in a hybrid machine learning parameterization**, *Journal of Advances in Modeling Earth Systems*, 16, e2024MS004485. [doi](https://doi.org/10.1029/2024MS004485)
 
-Eyring, V., Collins, W., ..., Lopez-Gomez, I., ... Zanna. L. (2024) **Pushing the frontiers in climate modelling and analysis with machine learning**, *Nature Climate Change*. [doi](https://doi.org/10.1038/s41558-024-02095-y) [pdf](https://ilopezgp.github.io/assets/papers/Eyring_et_al_2024.pdf)
+Eyring, V., Collins, W., ..., Lopez-Gomez, I., ... Zanna. L. (2024) **Pushing the frontiers in climate modelling and analysis with machine learning**, *Nature Climate Change*, 14, 916-928. [doi](https://doi.org/10.1038/s41558-024-02095-y) [pdf](https://ilopezgp.github.io/assets/papers/Eyring_et_al_2024.pdf)
 
 Li, L., Carver<sup>\*</sup>, R., Lopez-Gomez<sup>\*</sup>, I., Sha, F., Anderson, J. (2024) **Generative emulation of weather forecast ensembles with diffusion models**, *Science Advances*, 10, eadk4489. [doi](https://doi.org/10.1126/sciadv.adk4489)
 
