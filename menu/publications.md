@@ -7,6 +7,8 @@ backup_image: stratocumulus-baja.jpg
 
 ### Preprints & submitted articles
 
+Wan, Z. Y., Lopez-Gomez, I., Carver, R.,  Schneider, T., Anderson, J., Sha, F., Zepeda-Núñez, L. (2024) **Statistical Downscaling via High-Dimensional Distribution Matching with Generative Models**. [doi](https://arxiv.org/abs/2412.08079)
+
 Lopez-Gomez, I., Wan, Z. Y., Zepeda-Núñez, L., Schneider, T., Anderson, J., Sha, F. (2024) **Dynamical-generative downscaling of climate model ensembles**, *under review*. [doi](https://arxiv.org/abs/2410.01776)
 
 Guan, Y., Hassanzadeh, P., Schneider, T., Dunbar, O., Huang, D.Z., Wu, J., Lopez-Gomez, I. (2024) **Online learning of eddy-viscosity and backscattering closures for
@@ -38,7 +40,7 @@ Cohen, Y., Lopez-Gomez, I., Jaruga, A., He, J., Kaul, C., and Schneider, T. (202
 
 del Pozo, D., Lopez-Gomez, I., Romero, I. (2019) **A robust asymmetrical contact algorithm for explicit solid dynamics.** *Computational Mechanics*, 65, 15-32. [doi](https://doi.org/10.1007/s00466-018-1654-x)  [pdf](https://ilopezgp.github.io/assets/papers/Pozo_LopezGomez_Romero_2019.pdf)  
 
-### Conference presentations
+### Conference presentations & talks
 
 Hybrid dynamical-generative downscaling of climate model ensembles. *American Geophysical Union, Fall Meeting 2024*, 9-13 December 2024, Washington, D.C. [Abstract](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1565072)
 
