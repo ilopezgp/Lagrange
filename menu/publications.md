@@ -7,7 +7,7 @@ backup_image: stratocumulus-baja.jpg
 
 ### Preprints & submitted articles
 
-Wan, Z. Y., Lopez-Gomez, I., Carver, R.,  Schneider, T., Anderson, J., Sha, F., Zepeda-Núñez, L. (2024) **Statistical Downscaling via High-Dimensional Distribution Matching with Generative Models**. [doi](https://arxiv.org/abs/2412.08079)
+Wan, Z. Y., Lopez-Gomez, I., Carver, R.,  Schneider, T., Anderson, J., Sha, F., Zepeda-Núñez, L. (2024) **Statistical downscaling via high-dimensional distribution matching with generative models**. [doi](https://arxiv.org/abs/2412.08079)
 
 Lopez-Gomez, I., Wan, Z. Y., Zepeda-Núñez, L., Schneider, T., Anderson, J., Sha, F. (2024) **Dynamical-generative downscaling of climate model ensembles**, *under review*. [doi](https://arxiv.org/abs/2410.01776)
 
